@@ -22,6 +22,10 @@
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100px" />
 </span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="100px" />
+</span>
+
 
 - 👋 Hi, I’m @SawantDarshan
 - 👀 I’m interested in Web Development
